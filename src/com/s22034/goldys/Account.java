@@ -28,6 +28,6 @@ public class Account {
         } catch (NotEnoughFundsException e){
             e.printStackTrace();
         }
-        
+
     }
 }
